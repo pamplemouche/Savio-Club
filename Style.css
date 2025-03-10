@@ -54,3 +54,6 @@ button {
 button:hover {
   background-color: rgba(0,136,169,0.8);
 }
+a {
+ padding: 0px 0px;
+}
